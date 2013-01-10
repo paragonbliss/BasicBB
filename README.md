@@ -1,1 +1,1 @@
-My personal basic Backbone boilerplate with H5BP for Sublime Text 2 Fetch plugin.
+My personal basic Backbone boilerplate with H5BP and bootstrap for Sublime Text 2 Fetch plugin.
